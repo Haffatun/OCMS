@@ -6,7 +6,9 @@ Group Member: Haffatun Jannat Shifa (231-115-010)
 ER Diagram: https://miro.com/app/board/uXjVJVYgOuo=/
 
 🌟 Key Features
+
 For Students:
+
 Secure Registration & Login
 
 Course Enrollment & Payments
@@ -22,6 +24,7 @@ Post Comments & Feedback
 Receive Notices from Instructors/Admins
 
 For Instructors:
+
 Create & Manage Courses and Modules
 
 Upload Learning Materials
@@ -35,6 +38,7 @@ Post Announcements & Notices
 Review Student Feedback
 
 For Administrators:
+
 Manage All Users & Courses
 
 Monitor Payments & Enrollments
@@ -48,6 +52,7 @@ Access Platform Analytics & Usage Reports
 Ban or Restrict Users
 
 🛠️ Technology Stack
+
 Frontend:
 
 HTML5, CSS3, Responsive Design with Modern Card-Based UI
