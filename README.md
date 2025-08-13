@@ -5,7 +5,6 @@ Group Member: Haffatun Jannat Shifa (231-115-010)
 
 ER Diagram: https://miro.com/app/board/uXjVJVYgOuo=/
 
-
 🌟 Key Features
 For Students:
 Secure Registration & Login
@@ -70,4 +69,3 @@ Password Hashing
 Input Sanitization
 
 Role-based Access Control
-
