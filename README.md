@@ -5,6 +5,8 @@ Group Member: Haffatun Jannat Shifa (231-115-010)
 
 ER Diagram: https://miro.com/app/board/uXjVJVYgOuo=/
 
+Presentation: https://www.youtube.com/watch?v=FztOILJxnRE&ab_channel=HaffatunJannatShifa
+
 🌟 Key Features
 
 For Students:
